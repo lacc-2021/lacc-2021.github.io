@@ -12,11 +12,7 @@ show_news: false
 menu:
   footer:
     identifier: _about
-    weight: 3
-  navigation:
-    identifier: _about
-    weight: 2
-    title: Conference Info
+    weight: 1
 
 ---
 ### KEY DATES
