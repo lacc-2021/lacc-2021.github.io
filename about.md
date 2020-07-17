@@ -1,9 +1,9 @@
 ---
 title: About
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2018/02/17/college-building.jpg"
+banner_image: "/uploads/2020/07/17/security-industrial-hack-154216989.jpg"
 heading: This congress.
-sub_heading: Ora et Labora
+sub_heading: 'LANGUAGE OF THE EVENT: English'
 layout: landing-page
 textline: ''
 publish_date: '2017-12-01T04:00:00.000+00:00'
@@ -48,8 +48,6 @@ In the National Organizing Committee participate 20 people from different nation
 Chair: Dr. Orestes Llanes Santiago (Cuba)
 
 In the International Program Committee participate 90 leading researchers from Argentina, Belgium, Brazil, Canada, China, Cuba, Ecuador, France, Germany, Italy, Japan, Low Lands, Mexico, Peru, Portugal, Puerto Rico, Spain, United Kingdom and United States ( [https://lacc2020.github.io/comitees](https://lacc2020.github.io/comitees "https://lacc2020.github.io/comitees"))
-
-LANGUAGE OF THE EVENT : **English**
 
 ### INITIAL GUIDES FOR AUTHORS
 
