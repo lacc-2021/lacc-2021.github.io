@@ -19,7 +19,7 @@ textline: |
 
   Ora et Labora
 hero_button:
-  text: Learn more
+  text: This Congress
   href: "/about"
 show_news: true
 show_staff: false
