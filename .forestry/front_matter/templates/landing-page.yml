@@ -42,7 +42,7 @@ fields:
     schema:
       format: markdown
 - name: services
-  label: Services
+  label: Technical Areas
   type: field_group_list
   fields:
   - name: heading
@@ -62,10 +62,6 @@ fields:
     default: ''
   hidden: false
   default: ''
-- type: boolean
-  name: show_news
-  label: Show News?
-  description: Enables a news section with a twitter feed & latest posts
 - type: image_gallery
   name: partners
   label: Partner Logos
