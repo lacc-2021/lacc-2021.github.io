@@ -19,6 +19,42 @@ menu:
     title: Conference Info
 
 ---
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
+### KEY DATES
 
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+_February 28th , 2021_ – Proposal of Invited Sessions
+
+_April 30th , 2021_ – Draft Papers Submission
+
+_June 20th , 2021_ - Notification of acceptance
+
+_July 4th , 2021_ – Begin of Early regular registration (up to 2 papers)
+
+_July 20th , 2021_ - Final paper submission
+
+_August 4th , 2021_ – End of Early regular registration (up to 2 papers)
+
+_September 4th , 2021_ – End of Late regular registration (up to 2 papers)
+
+_September 15th , 2021_ – Final Program Delivery
+
+### NATIONAL ORGANIZING COMMITTEE
+
+**Chair** : Dra. Ivón O. Benítez González, CUJAE
+
+In the National Organizing Committee participate 20 people from different national Universities and companies related to Automatic Control .
+
+### INTERNATIONAL PROGRAM COMMITTEE
+
+Chair: Dr. Orestes Llanes Santiago (Cuba)
+
+In the International Program Committee participate 90 leading researchers from Argentina, Belgium, Brazil, Canada, China, Cuba, Ecuador, France, Germany, Italy, Japan, Low Lands, Mexico, Peru, Portugal, Puerto Rico, Spain, United Kingdom and United States ( [https://lacc2020.github.io/comitees](https://lacc2020.github.io/comitees "https://lacc2020.github.io/comitees"))
+
+LANGUAGE OF THE EVENT : **English**
+
+### INITIAL GUIDES FOR AUTHORS
+
+The papers presented in the LACC 2021 will be published in a [book of the series Studies in System, Decision and Control](https://www.springer.com/series/13304) of Springer.
+
+Papers will not have more than 10 pages, including figures and bibliography. They must be presented in the [Springer chapter book template](https://www.springer.com/de/authors-editors/book-authors-editors/resources-guidelines/book-manuscript-guidelines/manuscript-preparation/5636).
+
+The papers will be sent by using the LACC 2021 website.
