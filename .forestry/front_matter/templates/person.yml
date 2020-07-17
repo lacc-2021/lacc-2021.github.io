@@ -36,4 +36,5 @@ fields:
   hidden: true
   default: person
 pages:
+- _people/dr.orestes-llanes-santiago.md
 - _people/dra.ivon-oristela-benitez-gonzalez-cujae.md
