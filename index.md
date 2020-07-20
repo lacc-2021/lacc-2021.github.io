@@ -15,10 +15,10 @@ services:
   description: ''
   icon: ''
 - description: ''
-  icon: ''
+  icon: "/uploads/2020/07/20/537526-200.png"
   heading: Mechatronics, Robotics and Components
 - description: ''
-  icon: ''
+  icon: "/uploads/2020/07/20/png-clipart-computer-icons-delivery-share-icon-desktop-logistics-icon-truck-desktop-wallpaper.png"
   heading: Manufacturing and Logistics Systems
 - description: ''
   icon: ''
