@@ -13,7 +13,7 @@ services:
   icon: "/uploads/2020/07/20/1875720.svg"
 - heading: Computers, Cognition and Communications
   description: ''
-  icon: ''
+  icon: "/uploads/2020/07/20/web-development-glyph-01-512.png"
 - description: ''
   icon: "/uploads/2020/07/20/537526-200.png"
   heading: Mechatronics, Robotics and Components
@@ -21,7 +21,7 @@ services:
   icon: "/uploads/2020/07/20/png-clipart-computer-icons-delivery-share-icon-desktop-logistics-icon-truck-desktop-wallpaper.png"
   heading: Manufacturing and Logistics Systems
 - description: ''
-  icon: ''
+  icon: "/uploads/2020/07/20/execution-process-operation-execute-administration-512.png"
   heading: Process and Power Systems
 sub_heading: October 4th - October 8th, 2021, La Habana
 textline: The main objective of LACC 2021 is to bring the control world community,
