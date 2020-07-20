@@ -59,7 +59,7 @@ The papers will be sent by using the LACC 2021 website.
 
 Paper submission must be done via [EasyChair](https://easychair.org/conferences/?conf=lacc2020).
 
-If you wish to see information about papers submission see [Call for papers](https://drive.google.com/open?id=1os8Q4iB7bJsNSTTFCPGmbilQcsOLAy9TSOZf4Rb3ATk).
+If you wish to see information about papers submission see [Call for papers](https://drive.google.com/file/d/17x8qVce4eY4j9iaBeToIpsKKdG-0bhJu/view?usp=sharing).
 
 ## Travel and Accommodation
 
