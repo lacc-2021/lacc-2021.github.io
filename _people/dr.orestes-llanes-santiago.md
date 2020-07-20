@@ -4,7 +4,7 @@ role:
 layout: person
 title: Dr. Orestes Llanes Santiago, CUJAE
 sub_heading: ''
-thumbnail: "/uploads/2020/07/17/img3538_e56b3ac6b3160a.jpg"
+thumbnail: "/uploads/2020/07/20/orestes_santiago.jpg"
 email: orestes@tesla.cujae.edu.cu
 linkedin: ''
 
