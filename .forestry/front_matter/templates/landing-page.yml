@@ -33,6 +33,21 @@ fields:
   - type: text
     name: href
     label: Link
+- name: second_hero
+  type: field_group
+  config: {}
+  fields:
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Text
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Link
+  label: Second Hero
 - type: textarea
   name: textline
   label: Description
