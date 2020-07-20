@@ -29,6 +29,9 @@ hero_button:
   href: "/about"
 show_news: true
 show_staff: true
+second_hero:
+  text: Travel and Accommodation
+  link: "/travel_and_accomodation"
 menu:
   navigation:
     identifier: _index
