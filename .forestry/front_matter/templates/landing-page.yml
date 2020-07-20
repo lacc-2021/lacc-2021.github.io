@@ -33,6 +33,24 @@ fields:
   - type: text
     name: href
     label: Link
+- name: second_hero
+  type: field_group
+  config: {}
+  fields:
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Text
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Link
+  label: Second hero
+  hidden: false
+  description: This is another hero button for any other important information that
+    should be added
 - type: textarea
   name: textline
   label: Description
