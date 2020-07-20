@@ -7,7 +7,6 @@ partners:
 - "/uploads/2020/07/20/logo_ministerio.png"
 - "/uploads/2020/07/20/cedai.png"
 - "/uploads/2020/07/20/gelect-logo.jpg"
-- "/uploads/2020/07/20/acinox_las_tunas-logo.png"
 services:
 - heading: Design Methods
   description: ''
@@ -33,6 +32,9 @@ hero_button:
   href: "/about"
 show_news: true
 show_staff: true
+second_hero:
+  text: Travel and Accommodation
+  link: "/travel-and-accomodation"
 menu:
   navigation:
     identifier: _index
