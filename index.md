@@ -3,7 +3,11 @@ title: Home
 banner_image: "/uploads/2020/07/17/dsc_2605.jpg"
 layout: landing-page
 heading: 19th Latin American Control Congress
-partners: []
+partners:
+- "/uploads/2020/07/20/gelect-logo.jpg"
+- "/uploads/2020/07/20/logo_ministerio.png"
+- "/uploads/2020/07/20/acinox_las_tunas-logo.png"
+- "/uploads/2020/07/20/cedai.png"
 services:
 - heading: Design Methods
   description: ''
