@@ -10,7 +10,7 @@ partners:
 services:
 - heading: Design Methods
   description: ''
-  icon: ''
+  icon: "/uploads/2020/07/20/1875720.svg"
 - heading: Computers, Cognition and Communications
   description: ''
   icon: ''
