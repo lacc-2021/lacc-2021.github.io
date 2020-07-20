@@ -18,7 +18,7 @@ show_staff: false
 ---
 # Travel
 
-This time we are pleased to announce that as a carrier for the event we will have **Copa Airlines** offering a [special discount](https://drive.google.com/open?id=1OUqhYqXb6VjdXG29n5tY1i75ofXV52iu) to those who travel to Havana to attend the event.
+This time we are pleased to announce that as a carrier to the event we will have **Copa Airlines** offering a [special discount](https://drive.google.com/open?id=1OUqhYqXb6VjdXG29n5tY1i75ofXV52iu) to those who travel to Havana to attend the event.
 
 # Accommodation details
 
