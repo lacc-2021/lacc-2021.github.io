@@ -52,3 +52,9 @@ The papers presented in the LACC 2021 will be published in a [book of the series
 Papers will not have more than 10 pages, including figures and bibliography. They must be presented in the [Springer chapter book template](https://www.springer.com/de/authors-editors/book-authors-editors/resources-guidelines/book-manuscript-guidelines/manuscript-preparation/5636).
 
 The papers will be sent by using the LACC 2021 website.
+
+### Paper submission
+
+Paper submission must be done via [EasyChair](https://easychair.org/conferences/?conf=lacc2020).
+
+If you wish to see information about papers submission see [Call for papers](https://drive.google.com/open?id=1os8Q4iB7bJsNSTTFCPGmbilQcsOLAy9TSOZf4Rb3ATk).
