@@ -1,7 +1,7 @@
 ---
 title: About
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2020/07/17/security-industrial-hack-154216989.jpg"
+banner_image: "/uploads/2020/07/20/1-ixdmvsbf-ewfifuq_ri3iw.jpeg"
 heading: This congress
 sub_heading: 'LANGUAGE OF THE EVENT: English'
 layout: landing-page
