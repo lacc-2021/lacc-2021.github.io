@@ -15,6 +15,8 @@ menu:
     weight: 1
 
 ---
+## Fundamentals
+
 ### KEY DATES
 
 _February 28th , 2021_ – Proposal of Invited Sessions
@@ -43,7 +45,7 @@ In the National Organizing Committee participate 20 people from different nation
 
 Chair: Dr. Orestes Llanes Santiago (Cuba)
 
-In the International Program Committee participate 90 leading researchers from Argentina, Belgium, Brazil, Canada, China, Cuba, Ecuador, France, Germany, Italy, Japan, Low Lands, Mexico, Peru, Portugal, Puerto Rico, Spain, United Kingdom and United States ( [https://lacc2020.github.io/comitees](https://lacc2020.github.io/comitees "https://lacc2020.github.io/comitees"))
+In the International Program Committee participate 90 leading researchers from Argentina, Belgium, Brazil, Canada, China, Cuba, Ecuador, France, Germany, Italy, Japan, Low Lands, Mexico, Peru, Portugal, Puerto Rico, Spain, United Kingdom and United States. See the [IPC list by countries](https://drive.google.com/open?id=0B_wRdE369TgjQ0xSU2JqSFNRU0hVLUhWQ2J4TFl3MC0walZ3)
 
 ### INITIAL GUIDES FOR AUTHORS
 
@@ -58,3 +60,9 @@ The papers will be sent by using the LACC 2021 website.
 Paper submission must be done via [EasyChair](https://easychair.org/conferences/?conf=lacc2020).
 
 If you wish to see information about papers submission see [Call for papers](https://drive.google.com/open?id=1os8Q4iB7bJsNSTTFCPGmbilQcsOLAy9TSOZf4Rb3ATk).
+
+## Travel and Accommodation
+
+This time we are pleased to announce that as a carrier to the event we will have **Copa Airlines** offering a [special discount](https://drive.google.com/open?id=1OUqhYqXb6VjdXG29n5tY1i75ofXV52iu) to those who travel to Havana to attend the event.
+
+In the sense of solving accommodation stuff you can consult the agency [RioTravelExpress](https://riotravel.express/product/xix-congreso-latinoamericano-de-control-automatico/).
