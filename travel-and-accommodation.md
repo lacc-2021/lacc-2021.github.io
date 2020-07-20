@@ -3,7 +3,7 @@ heading: Stay confortable
 sub_heading: Get the information to have a good time in Havana during the congress..
 layout: home
 title: Travel and Accommodation
-banner_image: ''
+banner_image: "/uploads/2020/07/20/0aa32dd5885240053dc33cfe64e38c08.jpg"
 hero_button:
   text: ''
   href: ''
@@ -18,7 +18,7 @@ show_staff: false
 ---
 # Travel
 
-This time we are pleased to announce that as a carrier for the event we will have Copa Airlines offering a [special discount](https://drive.google.com/open?id=1OUqhYqXb6VjdXG29n5tY1i75ofXV52iu) to those who travel to Havana to attend the event.
+This time we are pleased to announce that as a carrier for the event we will have **Copa Airlines** offering a [special discount](https://drive.google.com/open?id=1OUqhYqXb6VjdXG29n5tY1i75ofXV52iu) to those who travel to Havana to attend the event.
 
 # Accommodation details
 
