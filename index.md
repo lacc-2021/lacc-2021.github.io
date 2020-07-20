@@ -24,7 +24,7 @@ services:
   icon: "/uploads/2020/07/20/execution-process-operation-execute-administration-512.png"
   heading: Process and Power Systems
 sub_heading: October 4th - October 8th, 2021, La Habana
-textline: The main objective of LACC 2021 is to bring the control world community,
+textline: The main objective of LACC2021 is to bring the control world community,
   and especially the Control Latin American community to analyse the current development
   and future challenges of Automatic Control and particularly in Latin American.
 hero_button:
