@@ -53,7 +53,7 @@ The papers presented in the LACC 2021 will be published in a [book of the series
 
 Papers will not have more than 10 pages, including figures and bibliography. They must be presented in the [Springer chapter book template](https://www.springer.com/de/authors-editors/book-authors-editors/resources-guidelines/book-manuscript-guidelines/manuscript-preparation/5636).
 
-The papers will be sent by using the LACC 2021 website.
+The papers will be sent by using the LACC2021 website.
 
 ### Paper submission
 
