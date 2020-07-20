@@ -35,7 +35,7 @@ show_news: true
 show_staff: true
 second_hero:
   text: Travel and Accommodation
-  link: "/travel_and_accomodation"
+  link: "/travel-and-accomodation"
 menu:
   navigation:
     identifier: _index
