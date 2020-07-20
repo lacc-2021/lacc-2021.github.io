@@ -25,7 +25,7 @@ services:
   heading: Process and Power Systems
 sub_heading: October 4th - October 8th, 2021, La Habana
 textline: The main objective of LACC2021 is to bring the control world community,
-  and especially the Control Latin American community to analyse the current development
+  and especially the Control Latin American community to analyze the current development
   and future challenges of Automatic Control and particularly in Latin American.
 hero_button:
   text: This Congress
@@ -45,6 +45,6 @@ menu:
 
 Havana - Real and Wonderful, rich in traditions, culture, science and innovation. Havana, the Cuban Capital with 500 years of history, is a city that never sleeps: its culture, traditions and colonial architecture makes it a great tourist destination.
 
-The participants of the Conference will also find in Havana a large number of research centers and universities such as La Universidad Tecnológica de La Habana José Antonio Echeverría, the only and biggest technological university of Cuba.
+The participants of the Conference will also find in Havana a large number of research centres and universities such as La Universidad Tecnológica de La Habana José Antonio Echeverría, the only and biggest technological university of Cuba.
 
 The Conference will take place at the Palace of Conventions in Havana, a prestigious institution specialized in the organization of events and congresses.
