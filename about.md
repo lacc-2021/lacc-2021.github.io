@@ -43,7 +43,7 @@ In the National Organizing Committee participate 20 people from different nation
 
 ### INTERNATIONAL PROGRAM COMMITTEE
 
-Chair: Dr. Orestes Llanes Santiago (Cuba)
+**Chair**: Dr. Orestes Llanes Santiago, CUJAE
 
 In the International Program Committee participate 90 leading researchers from Argentina, Belgium, Brazil, Canada, China, Cuba, Ecuador, France, Germany, Italy, Japan, Low Lands, Mexico, Peru, Portugal, Puerto Rico, Spain, United Kingdom and United States. See the [IPC list by countries](https://drive.google.com/open?id=0B_wRdE369TgjQ0xSU2JqSFNRU0hVLUhWQ2J4TFl3MC0walZ3)
 
@@ -59,7 +59,7 @@ The papers will be sent by using the LACC2021 website.
 
 Paper submission must be done via [EasyChair](https://easychair.org/conferences/?conf=lacc2020).
 
-If you wish to see information about papers submission see [Call for papers](https://drive.google.com/file/d/17x8qVce4eY4j9iaBeToIpsKKdG-0bhJu/view?usp=sharing).
+If you wish to see information about papers submission see [Call for papers](https://docs.google.com/document/d/1I_3hjod_np2_d63Z9gUwFcezIh3NFHINe063z3WLLB4/edit?usp=sharing).
 
 ## Travel and Accommodation
 
