@@ -3,7 +3,8 @@ role:
 - staff
 layout: person
 title: Dr. Orestes Llanes Santiago, CUJAE
-sub_heading: ''
+sub_heading: Professor and main coordinator of the Fault diagnosis and Parameter estimation
+  using tools of datamining and computational intelligence project.
 thumbnail: "/uploads/2020/07/20/orestes_santiago.jpg"
 email: orestes@tesla.cujae.edu.cu
 linkedin: ''
