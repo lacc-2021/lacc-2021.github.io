@@ -14,6 +14,14 @@ partners:
 - "/uploads/2020/07/20/cedai.png"
 - "/uploads/2020/07/20/acinox.png"
 - "/uploads/2020/09/09/index"
+services:
+- icon: "/uploads/2020/07/20/1875720.svg"
+  heading: Design Methods
+- icon: "/uploads/2020/07/20/web-development-glyph-01-512.png"
+  heading: Computers, Cognition and Communication
+- description: ''
+  icon: "/uploads/2020/07/20/537526-200.png"
+  heading: Mechatronics, Robotics and Components
 menu:
   footer:
     identifier: _about
