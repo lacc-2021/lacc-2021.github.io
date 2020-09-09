@@ -9,6 +9,11 @@ textline: ''
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: false
 show_news: false
+partners:
+- "/uploads/2020/09/09/index.jpg"
+- "/uploads/2020/07/20/cedai.png"
+- "/uploads/2020/07/20/acinox.png"
+- "/uploads/2020/09/09/index"
 menu:
   footer:
     identifier: _about
