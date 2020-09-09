@@ -49,3 +49,23 @@ Havana - Real and Wonderful, rich in traditions, culture, science and innovation
 The participants of the Conference will also find in Havana a large number of research centres and universities such as La Universidad Tecnológica de La Habana José Antonio Echeverría, the only and biggest technological university of Cuba.
 
 The Conference will take place at the Palace of Conventions in Havana, a prestigious institution specialized in the organization of events and congresses.
+
+### TECHNICAL AREAS
+
+It may be sent original papers in all technical areas of Automatic Control with special interest in Design
+
+Methods; Computers, Cognition and Communications; Mechatronics, Robotics and Components;
+
+Manufacturing and Logistics Systems and Process and Power Systems.
+
+### INVITED SESIONS
+
+Invited sessions consist in six regular papers based on invitation by organizers. Topics of special interest
+
+to organize invited sessions but not limited are: Industry 4.0; Industrial Safety and Cibersecurity,
+
+Manufacturing, Robotics; Renewal Energies and Automation; Digitalization, Artificial Intelligence and
+
+Control. The proposal of invited sessions should be sent to the Chair of the International Program
+
+Committee.
