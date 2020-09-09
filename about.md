@@ -10,7 +10,7 @@ publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: false
 show_news: false
 partners:
-- "/uploads/2020/09/09/index.jpg"
+- "/uploads/2020/07/20/gelect-logo.jpg"
 - "/uploads/2020/07/20/cedai.png"
 - "/uploads/2020/07/20/acinox.png"
 - "/uploads/2020/09/09/index"
@@ -75,13 +75,13 @@ _September 15th , 2021_ – Final Program Delivery
 
 ### NATIONAL ORGANIZING COMMITTEE
 
-**Chair** : Dra. Ivón O. Benítez González, CUJAE
+**Chair** :PhD. Ivón O. Benítez González, CUJAE
 
 In the National Organizing Committee participate 20 people from different national Universities and companies related to Automatic Control .
 
 ### INTERNATIONAL PROGRAM COMMITTEE
 
-**Chair**: Dr. Orestes Llanes Santiago, CUJAE
+**Chair**: PhD. Orestes Llanes Santiago, CUJAE
 
 In the International Program Committee participate 90 leading researchers from Argentina, Belgium, Brazil, Canada, China, Cuba, Ecuador, France, Germany, Italy, Japan, Low Lands, Mexico, Peru, Portugal, Puerto Rico, Spain, United Kingdom and United States. See the [IPC list by countries](https://drive.google.com/open?id=0B_wRdE369TgjQ0xSU2JqSFNRU0hVLUhWQ2J4TFl3MC0walZ3)
 
