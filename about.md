@@ -22,6 +22,11 @@ services:
 - description: ''
   icon: "/uploads/2020/07/20/537526-200.png"
   heading: Mechatronics, Robotics and Components
+- heading: Manufacturing and Logistics Systems
+  icon: "/uploads/2020/07/20/png-clipart-computer-icons-delivery-share-icon-desktop-logistics-icon-truck-desktop-wallpaper.png"
+- description: ''
+  icon: "/uploads/2020/07/20/execution-process-operation-execute-administration-512.png"
+  heading: Process and Power Systems
 menu:
   footer:
     identifier: _about
