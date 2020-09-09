@@ -37,23 +37,11 @@ menu:
 
 ### TECHNICAL AREAS
 
-It may be sent original papers in all technical areas of Automatic Control with special interest in Design
-
-Methods; Computers, Cognition and Communications; Mechatronics, Robotics and Components;
-
-Manufacturing and Logistics Systems and Process and Power Systems.
+It may be sent original papers in all technical areas of Automatic Control with special interest in Design Methods; Computers, Cognition and Communications; Mechatronics, Robotics and Components; Manufacturing and Logistics Systems and Process and Power Systems.
 
 ### INVITED SESIONS
 
-Invited sessions consist in six regular papers based on invitation by organizers. Topics of special interest
-
-to organize invited sessions but not limited are: Industry 4.0; Industrial Safety and Cibersecurity,
-
-Manufacturing, Robotics; Renewal Energies and Automation; Digitalization, Artificial Intelligence and
-
-Control. The proposal of invited sessions should be sent to the Chair of the International Program
-
-Committee.
+Invited sessions consist in six regular papers based on invitation by organizers. Topics of special interest to organize invited sessions but not limited are: Industry 4.0; Industrial Safety and Cibersecurity, Manufacturing, Robotics; Renewal Energies and Automation; Digitalization, Artificial Intelligence and Control. The proposal of invited sessions should be sent to the Chair of the International Program Committee.
 
 ### KEY DATES
 
