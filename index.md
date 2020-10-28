@@ -46,7 +46,7 @@ menu:
 
 Havana - Real and Wonderful, rich in traditions, culture, science and innovation. Havana, the Cuban Capital with 500 years of history, is a city that never sleeps: its culture, traditions and colonial architecture makes it a great tourist destination.
 
-The participants of the Conference will also find in Havana a large number of research centres and universities such as La [Universidad Tecnológica de La Habana José Antonio Echeverría](https://cujae.edu.cu),mostly known as CUJAE, the only and biggest technological university of Cuba. Here you are invited to visit the Instrumentation and Control Laboratory, one of the most advanced of its kind in the region.
+The participants of the Conference will also find in Havana a large number of research centres and universities such as La [Universidad Tecnológica de La Habana José Antonio Echeverría](https://cujae.edu.cu),mostly known as **CUJAE**, the only and biggest technological university of Cuba. Here you are invited to visit the **Instrumentation and Control Laboratory**, one of the most advanced of its kind in the region.
 
 As well as the [University of Havana](http://www.uh.cu/acerca-de-la-uh), located at Vedado, which was the first university opened at the 18th century; and the [UCI](http://uci.cu) (Universidad de las Ciencias Informaticas in Spanish), founded in the early 2000's with the aim of becoming a centre for software technologies learning and production.
 
