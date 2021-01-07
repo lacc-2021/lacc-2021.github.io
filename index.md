@@ -44,7 +44,7 @@ menu:
 ---
 # The 500 years host
 
-Havana - Real and Wonderful, rich in traditions, culture, science and innovation. Havana, the Cuban Capital with 500 years of history, is a city that never sleeps: its culture, traditions and colonial architecture makes it a great tourist destination.
+Havana - Real and Wonderful, rich in traditions, culture, science and innovation. Havana, the Capital of Cuba with 500 years of history, is a city that never sleeps: its culture, traditions and colonial architecture makes it a great tourist destination.
 
 The participants of the Conference will also find in Havana a large number of research centres and universities such as La [Universidad Tecnológica de La Habana José Antonio Echeverría](https://cujae.edu.cu),mostly known as **CUJAE**, the only and biggest technological university of Cuba. Here you are invited to visit the **Instrumentation and Control Laboratory**, one of the most advanced of its kind in the region.
 
